@@ -1,2 +1,1 @@
-this is a readme ...
----------------- change \n ---------
+private int one = 1;
